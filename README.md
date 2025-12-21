@@ -38,6 +38,6 @@ Custom scoring reveals which foods align better with healthy goals.
 [View top 10 healthiest items](healthiest_items.csv)
 [View top 10 unhealthiest items](unhealthiest_items.csv)
 ### Nutrient Correlation Heatmap
-![Heatmap](images/heatmap.png)
+![Heatmap]("C:\Users\divya\OneDrive\Desktop\projects\OIBSIP\Task1_McDonalds\images\heatmap.png")
 ### Calories Distribution
 ![Calories Distribution](images/calories_hist.png)
