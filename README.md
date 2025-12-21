@@ -40,4 +40,4 @@ Custom scoring reveals which foods align better with healthy goals.
 ### Nutrient Correlation Heatmap
 ![Heatmap]("C:\Users\divya\OneDrive\Desktop\projects\OIBSIP\Task1_McDonalds\images\heatmap.png")
 ### Calories Distribution
-![Calories Distribution](images/calories_hist.png)
+![Calories Distribution]("C:\Users\divya\OneDrive\Desktop\projects\OIBSIP\Task1_McDonalds\images\calories_hist.png")
