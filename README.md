@@ -41,3 +41,5 @@ Custom scoring reveals which foods align better with healthy goals.
 ![Heatmap]("C:\Users\divya\OneDrive\Desktop\projects\OIBSIP\Task1_McDonalds\images\heatmap.png")
 ### Calories Distribution
 ![Calories Distribution]("C:\Users\divya\OneDrive\Desktop\projects\OIBSIP\Task1_McDonalds\images\calories_hist.png")
+
+Dataset Source: https://www.kaggle.com/datasets/mcdonalds/nutrition-facts
