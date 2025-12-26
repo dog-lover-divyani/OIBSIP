@@ -99,3 +99,16 @@ By leveraging clustering and visualization techniques, businesses can make infor
 ---
 
 ## 📎 Repository Structure
+Task2_Segmentation/
+│
+├── customer_segmentation.ipynb
+├── ifood_df.csv
+├── README.md
+│
+├── images/
+│   ├── elbow_method.png
+│   ├── customer_segments_income_vs_spending.png
+│
+├── outputs/
+│   ├── clustered_customers.csv
+│   ├── segment_summary.csv
