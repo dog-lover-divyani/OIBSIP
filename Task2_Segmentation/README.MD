@@ -96,18 +96,4 @@ The final results were saved for further analysis and reporting:
 This project demonstrates how **customer segmentation using data analytics** can uncover hidden patterns in customer behavior.  
 By leveraging clustering and visualization techniques, businesses can make informed decisions that enhance customer satisfaction and improve overall performance.
 
----
-## 📎 Repository Structure
-Task2_Segmentation/
-│
-├── customer_segmentation.ipynb
-├── ifood_df.csv
-├── README.md
-│
-├── images/
-│   ├── elbow_method.png
-│   ├── customer_segments_income_vs_spending.png
-│
-├── outputs/
-│   ├── clustered_customers.csv
-│   ├── segment_summary.csv
+
