@@ -97,7 +97,6 @@ This project demonstrates how **customer segmentation using data analytics** can
 By leveraging clustering and visualization techniques, businesses can make informed decisions that enhance customer satisfaction and improve overall performance.
 
 ---
-
 ## 📎 Repository Structure
 Task2_Segmentation/
 │
